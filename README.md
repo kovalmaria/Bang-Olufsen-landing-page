@@ -23,7 +23,6 @@ This landing page was created as a static layout for Bang & Olufsen, focusing on
 - **Product Highlights** — Featured content or product blocks
 - **About Us** — Brief company description
 - **Contact Form** — Visual contact form layout (static)
-- **Footer** — Social icons and additional links
 
 ---
 
@@ -48,4 +47,3 @@ This landing page was created as a static layout for Bang & Olufsen, focusing on
 - ⚡ **Fast Performance** — Optimized and lightweight
 - 🧼 **Clean Codebase** — Easy to read and maintain
 - 🔧 **No External Libraries** — Pure HTML/SCSS only
-
